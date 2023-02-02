@@ -1,10 +1,11 @@
 /* Place CSS styles here */
 .main-resume{
-    background-color: #F6E6FE;
     margin-left: 20px;
 }
 .main-resume h1{
     color: #461d7c;
+    margin-top: 3px;
+    margin-bottom: 2px;
 }
 .main-resume h2{
     color: #19258A;
@@ -13,7 +14,7 @@
 .main-resume h3{
     color:#87198A;
     margin-top: 7px;
-    margin-bottom: 3px;
+    margin-bottom: 4px;
 }
 .main-resume ul{
     color:#2E1B94;
