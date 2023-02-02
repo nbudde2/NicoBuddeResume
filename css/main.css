@@ -1,16 +1,16 @@
 /* Place CSS styles here */
-h1{
+.main-resume h1{
     color: #461d7c
 }
-h2{
+.main-resume h2{
     color: #19258A
 }
-h3{
+.main-resume h3{
     color:#87198A
 }
-ul{
+.main-resume ul{
     color:#2E1B94
 }
-p{
+.main-resume p{
     color:#2E1B94
 }
